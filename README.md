@@ -78,4 +78,5 @@ This project is licensed under the MIT License.
 ## Live Demo
 
 You can view the live demo of this project hosted on GitHub Pages:  
-[https://your-github-username.github.io/catatan-belanja/](https://bmaarianto.github.io/catatan-belanja/)
+
+<a href="https://bmaarianto.github.io/catatan-belanja/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">Live Demo</a>
