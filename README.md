@@ -30,7 +30,7 @@ A simple React application built with Vite for managing grocery shopping lists. 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bmaarianto/catatan-belanja.git
    cd catatan-belanja
    ```
 
@@ -74,3 +74,8 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 
 This project is licensed under the MIT License.
+
+## Live Demo
+
+You can view the live demo of this project hosted on GitHub Pages:  
+[https://your-github-username.github.io/catatan-belanja/](https://bmaarianto.github.io/catatan-belanja/)
